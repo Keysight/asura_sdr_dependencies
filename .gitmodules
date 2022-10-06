@@ -1,0 +1,7 @@
+[submodule "srsRAN"]
+	path = srs-ran
+	url = https://github.com/srsran/srsRAN.git
+
+[submodule "srs-ran"]
+	path = srs-ran
+	url = https://github.com/srsran/srsRAN.git
